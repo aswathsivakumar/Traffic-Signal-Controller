@@ -64,7 +64,7 @@ Digilent Nexys A7 – Artix-7 FPGA
 
 👨‍🎓 Project Author
 
-Dhivahar B
+ASWATHKUMAR MS 
 
 B.Tech Electronics and Communication Engineering
 
